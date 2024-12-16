@@ -2,6 +2,7 @@ This is a project which demonstrates the different Rate Limiter algorithms. This
 
 The algorithms included here:
 ## [Token Bucket Algorithm](src/main/java/com/pallamsetty/tokenbucket)
+<br />
 Used by Amazon and Stripe.
 <img src="assets/Load%20Bucket%20Algorithm.drawio.png" width="400" height="300" />
 
