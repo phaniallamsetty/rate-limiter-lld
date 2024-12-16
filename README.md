@@ -2,7 +2,7 @@ This is a project which demonstrates the different Rate Limiter algorithms. This
 
 The algorithms included here:
 - [Token Bucket Algorithm](src/main/java/com/pallamsetty/tokenbucket)
-- <img src="assets/Load%20Bucket%20Algorithm.drawio.png" width="300" height="300" />
+<img src="assets/Load%20Bucket%20Algorithm.drawio.png" width="400" height="300" />
 
 This project also includes unit tests to test these algorithms. I have added at least one test for each of these algorithms:
 - [Token Bucket Algorithm Test(s)](src/test/java/com/pallamsetty/tokenbucket)
