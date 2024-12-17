@@ -2,7 +2,11 @@ This is a project which demonstrates the different Rate Limiter algorithms. This
 
 The algorithms included here:
 - [Token Bucket Algorithm](src/main/java/com/pallamsetty/tokenbucket)
-- ![Token Bucket](assets/Load%20Bucket%20Algorithm.drawio.png)
+![Token Bucket](assets/Load%20Bucket%20Algorithm.drawio.png)
+
+- [Leaking Bucket Algorithm](src/main/java/com/pallamsetty/leakingbucket)
+![Leaking Bucket](assets/Leaking%20Bucket%20Algorithm.drawio.png)
 
 This project also includes unit tests to test these algorithms. I have added at least one test for each of these algorithms:
 - [Token Bucket Algorithm Test(s)](src/test/java/com/pallamsetty/tokenbucket)
+- [Leaking Bucket Algorithm Test(s)](src/test/java/com/pallamsetty/leakingbucket)
