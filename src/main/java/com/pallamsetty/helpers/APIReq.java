@@ -1,4 +1,4 @@
-package com.pallamsetty.leakingbucket;
+package com.pallamsetty.helpers;
 
 public class APIReq {
     private int reqId;
@@ -25,6 +25,15 @@ public class APIReq {
 
     public void setUrl(String url) {
         this.url = url;
+    }
+
+    @Override
+    public String toString() {
+        return "APIReq{" +
+                "reqId=" + reqId +
+                ", url='" + url + '\'' +
+                ", requestType='" + requestType + '\'' +
+                '}';
     }
 
     public String getRequestType() {
