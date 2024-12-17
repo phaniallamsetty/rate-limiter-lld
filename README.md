@@ -9,7 +9,7 @@ Used by Amazon and Stripe.
 ## [Leaking Bucket Algorithm](src/main/java/com/pallamsetty/leakingbucket)
 Used by Shopify
 
-<img src="assets/Leaking%20Bucket%20Algorithm.drawio.png" width="00" height="300" />
+<img src="assets/Leaking%20Bucket%20Algorithm.drawio.png" width="600" height="300" />
 
 
 **This project also includes unit tests to test these algorithms. I have added at least one test for each of these algorithms:**
