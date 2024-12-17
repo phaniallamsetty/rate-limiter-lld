@@ -1,12 +1,17 @@
 This is a project which demonstrates the different Rate Limiter algorithms. This project only deals with the basic idea behind each of these algorithms. It does not delve deep into the specific implementations. Each of these algorithms is implemented in different ways by different systems worldwide.
 
 The algorithms included here:
-- [Token Bucket Algorithm](src/main/java/com/pallamsetty/tokenbucket)
-![Token Bucket](assets/Load%20Bucket%20Algorithm.drawio.png)
+## [Token Bucket Algorithm](src/main/java/com/pallamsetty/tokenbucket)
+Used by Amazon and Stripe.
 
-- [Leaking Bucket Algorithm](src/main/java/com/pallamsetty/leakingbucket)
-![Leaking Bucket](assets/Leaking%20Bucket%20Algorithm.drawio.png)
+<img src="assets/Load%20Bucket%20Algorithm.drgit puawio.png" width="400" height="300" />
 
-This project also includes unit tests to test these algorithms. I have added at least one test for each of these algorithms:
+## [Leaking Bucket Algorithm](src/main/java/com/pallamsetty/leakingbucket)
+Used by Shopify
+
+<img src="assets/Leaking%20Bucket%20Algorithm.drawio.png" width="400" height="300" />
+
+
+**This project also includes unit tests to test these algorithms. I have added at least one test for each of these algorithms:**
 - [Token Bucket Algorithm Test(s)](src/test/java/com/pallamsetty/tokenbucket)
-- [Leaking Bucket Algorithm Test(s)](src/test/java/com/pallamsetty/leakingbucket)
+- [Token Bucket Algorithm Test(s)](src/test/java/com/pallamsetty/leakingbucket)
