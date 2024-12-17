@@ -4,7 +4,7 @@ The algorithms included here:
 ## [Token Bucket Algorithm](src/main/java/com/pallamsetty/tokenbucket)
 Used by Amazon and Stripe.
 
-<img src="assets/Load%20Bucket%20Algorithm.drgit puawio.png" width="400" height="300" />
+<img src="assets/Load%20Bucket%20Algorithm.drawio.png" width="400" height="300" />
 
 ## [Leaking Bucket Algorithm](src/main/java/com/pallamsetty/leakingbucket)
 Used by Shopify
