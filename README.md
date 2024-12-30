@@ -15,7 +15,12 @@ Used by Shopify
 
 <img src="assets/Fixed%20Window%20Counter%20Algorithm.png" width="600" height="300" />
 
+## [Sliding Window Log Algorithm](src/main/java/com/pallamsetty/slidingwindowlog)
+
+<img src="assets/Sliding%20Window%20Log.drawio.png" width="600" height="300" />
+
 **This project also includes unit tests to test these algorithms. I have added at least one test for each of these algorithms:**
 - [Token Bucket Algorithm Test(s)](src/test/java/com/pallamsetty/tokenbucket)
 - [Leaking Bucket Algorithm Test(s)](src/test/java/com/pallamsetty/leakingbucket)
 - [Fixed Window Counter Algorithm Test(s)](src/test/java/com/pallamsetty/fixedwindowcounter)
+- [Sliding Window Log Algorithm Test(s)](src/test/java/com/pallamsetty/slidingwindowlog)
